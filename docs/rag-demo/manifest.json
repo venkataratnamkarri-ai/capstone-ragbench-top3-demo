@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "id": "Legal",
+      "label": "Legal",
+      "configs": [
+        "v19_hybrid_json_optimal",
+        "v25_hybrid_long_reasoning",
+        "v31_parent_child_standard"
+      ]
+    },
+    {
+      "id": "bio-medical",
+      "label": "Bio Medical",
+      "configs": [
+        "v8c",
+        "v8e",
+        "v8l"
+      ]
+    },
+    {
+      "id": "financial",
+      "label": "Financial",
+      "configs": [
+        "tatv10",
+        "tatv3",
+        "tatv4",
+        "v3",
+        "v4",
+        "v5"
+      ]
+    },
+    {
+      "id": "general-knowledge",
+      "label": "General Knowledge",
+      "configs": [
+        "v25",
+        "v4",
+        "v9"
+      ]
+    }
+  ]
+}

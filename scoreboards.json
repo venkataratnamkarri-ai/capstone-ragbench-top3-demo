@@ -1,0 +1,126 @@
+{
+  "v1.1": [
+    {
+      "domain": "covidqa",
+      "n": 15,
+      "relevance_rmse": 0.3227,
+      "utilization_rmse": 0.2209,
+      "completeness_rmse": 0.4726,
+      "adherence_aucroc": 0.9286
+    },
+    {
+      "domain": "pubmedqa",
+      "n": 15,
+      "relevance_rmse": 0.2747,
+      "utilization_rmse": 0.2304,
+      "completeness_rmse": 0.2421,
+      "adherence_aucroc": 0.5385
+    },
+    {
+      "domain": "ALL",
+      "n": 30,
+      "relevance_rmse": 0.2997,
+      "utilization_rmse": 0.2257,
+      "completeness_rmse": 0.3755,
+      "adherence_aucroc": 0.8025
+    }
+  ],
+  "v7": [
+    {
+      "domain": "covidqa",
+      "n": 15,
+      "relevance_rmse": 0.1936,
+      "utilization_rmse": 0.0808,
+      "completeness_rmse": 0.4837,
+      "adherence_aucroc": 0.8571
+    },
+    {
+      "domain": "pubmedqa",
+      "n": 15,
+      "relevance_rmse": 0.2939,
+      "utilization_rmse": 0.2844,
+      "completeness_rmse": 0.3473,
+      "adherence_aucroc": 0.7308
+    },
+    {
+      "domain": "ALL",
+      "n": 30,
+      "relevance_rmse": 0.2488,
+      "utilization_rmse": 0.2091,
+      "completeness_rmse": 0.4211,
+      "adherence_aucroc": 0.8148
+    }
+  ],
+  "v8": [
+    {
+      "domain": "pubmedqa",
+      "n": 15,
+      "relevance_rmse": 0.2604,
+      "utilization_rmse": 0.2069,
+      "completeness_rmse": 0.2731,
+      "adherence_aucroc": 0.5385
+    },
+    {
+      "domain": "ALL",
+      "n": 15,
+      "relevance_rmse": 0.2604,
+      "utilization_rmse": 0.2069,
+      "completeness_rmse": 0.2731,
+      "adherence_aucroc": 0.5385
+    }
+  ],
+  "v19_hybrid_json_optimal": [
+    {
+      "domain": "cuad",
+      "n": 30,
+      "relevance_rmse": 0.2969,
+      "utilization_rmse": 0.0599,
+      "completeness_rmse": 0.5516,
+      "adherence_aucroc": 0.8103
+    },
+    {
+      "domain": "ALL",
+      "n": 30,
+      "relevance_rmse": 0.2969,
+      "utilization_rmse": 0.0599,
+      "completeness_rmse": 0.5516,
+      "adherence_aucroc": 0.8103
+    }
+  ],
+  "v25_hybrid_long_reasoning": [
+    {
+      "domain": "cuad",
+      "n": 30,
+      "relevance_rmse": 0.3055,
+      "utilization_rmse": 0.0685,
+      "completeness_rmse": 0.5688,
+      "adherence_aucroc": 0.931
+    },
+    {
+      "domain": "ALL",
+      "n": 30,
+      "relevance_rmse": 0.3055,
+      "utilization_rmse": 0.0685,
+      "completeness_rmse": 0.5688,
+      "adherence_aucroc": 0.931
+    }
+  ],
+  "v31_parent_child_standard": [
+    {
+      "domain": "cuad",
+      "n": 30,
+      "relevance_rmse": 0.3351,
+      "utilization_rmse": 0.2263,
+      "completeness_rmse": 0.5517,
+      "adherence_aucroc": 0.9138
+    },
+    {
+      "domain": "ALL",
+      "n": 30,
+      "relevance_rmse": 0.3351,
+      "utilization_rmse": 0.2263,
+      "completeness_rmse": 0.5517,
+      "adherence_aucroc": 0.9138
+    }
+  ]
+}
